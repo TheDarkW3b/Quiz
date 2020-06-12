@@ -1,0 +1,13 @@
+D:\Codes\c#\Quiz\C#\bin\Debug\net5.0\C#.exe
+D:\Codes\c#\Quiz\C#\bin\Debug\net5.0\C#.deps.json
+D:\Codes\c#\Quiz\C#\bin\Debug\net5.0\C#.runtimeconfig.json
+D:\Codes\c#\Quiz\C#\bin\Debug\net5.0\C#.runtimeconfig.dev.json
+D:\Codes\c#\Quiz\C#\bin\Debug\net5.0\C#.dll
+D:\Codes\c#\Quiz\C#\bin\Debug\net5.0\C#.pdb
+D:\Codes\c#\Quiz\C#\obj\Debug\net5.0\C#.csprojAssemblyReference.cache
+D:\Codes\c#\Quiz\C#\obj\Debug\net5.0\C#.AssemblyInfoInputs.cache
+D:\Codes\c#\Quiz\C#\obj\Debug\net5.0\C#.AssemblyInfo.cs
+D:\Codes\c#\Quiz\C#\obj\Debug\net5.0\C#.csproj.CoreCompileInputs.cache
+D:\Codes\c#\Quiz\C#\obj\Debug\net5.0\C#.dll
+D:\Codes\c#\Quiz\C#\obj\Debug\net5.0\C#.pdb
+D:\Codes\c#\Quiz\C#\obj\Debug\net5.0\C#.genruntimeconfig.cache
