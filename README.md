@@ -1,6 +1,6 @@
 # Quiz
 
-### This Is Simple Quiz Program of 4 Question Made In 3 Different Programming Languages To Understand The Basic Of Languages For Beginners.
+### This Is Simple Quiz Program of 4 Question Made In 4 Different Programming Languages To Understand The Basic Of Languages For Beginners.
 ---
 
 <p align="center">
@@ -12,6 +12,7 @@
 - [x] C#
 - [x] Go
 - [x] Python
+- [x] Java
 
 ### More Will Be Added Later
 ---
@@ -38,6 +39,18 @@ For Running Python File.Inside The Python Folder Run Command
 ```bash
 python main.py
 ```
+---
+
+For Running Java Program
+
+*src/com/darkwebQuiz* Contains Main Java File. Switch Into This Directory and Run Command On Machine With *Java SE* Installed
+
+```bash
+java Main.java
+```
+
+or Simple Click Run Button In **Intellij IDEA**
+
 ## Credits
 
 > Its Written by [@TheDarkW3b](https://t.me/TheDarkW3b)
