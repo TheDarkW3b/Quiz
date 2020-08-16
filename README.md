@@ -11,12 +11,6 @@
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
 <br/>
-[csharp]: https://github.com/TheDarkW3b/Quiz/blob/master/C%23/Program.cs
-[cpp]: https://github.com/TheDarkW3b/Quiz/blob/master/C%2B%2B/main.cpp
-[c]: https://github.com/TheDarkW3b/Quiz/blob/master/C/main.c
-[go]: https://github.com/TheDarkW3b/Quiz/blob/master/GO/main.go
-[java]: https://github.com/TheDarkW3b/Quiz/blob/master/Java/src/com/darkwebQuiz/Main.java
-[python]: https://github.com/TheDarkW3b/Quiz/blob/master/Python/main.py
 
 ---
 
@@ -95,3 +89,10 @@ or Simple Click Run Button In **Intellij IDEA**
 * Channel :- https://t.me/Dark_Hacker_X
 
 Soon More Languages Will Be Added
+
+[csharp]: https://github.com/TheDarkW3b/Quiz/blob/master/C%23/Program.cs
+[cpp]: https://github.com/TheDarkW3b/Quiz/blob/master/C%2B%2B/main.cpp
+[c]: https://github.com/TheDarkW3b/Quiz/blob/master/C/main.c
+[go]: https://github.com/TheDarkW3b/Quiz/blob/master/GO/main.go
+[java]: https://github.com/TheDarkW3b/Quiz/blob/master/Java/src/com/darkwebQuiz/Main.java
+[python]: https://github.com/TheDarkW3b/Quiz/blob/master/Python/main.py
